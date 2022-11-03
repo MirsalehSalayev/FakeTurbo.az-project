@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../todoCLi"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "fakeTurboAz"
+	}
+}
